@@ -10,7 +10,13 @@
 <p align="center">
    <img alt="Certificate" src="assets/certificateAlura.png" width="100%/>
 <p align="center">
-  
+</p>
+		 
+<p align="center">
+  <h2 align="center"> Jogue em seu computador e divirta-se!</h2>
+  <a href="https://editor.p5js.org/Italo-Tech/full/yJCRaodkY">
+    <p align="center">Clique aqui para acessar ao jogo e repasse para os amigos rss</p>
+  </a>
 </p>
 
 ## 💻 Projeto
@@ -27,13 +33,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Javascript p5](https://editor.p5js.org/)
 
-<p align="center">
-  <h2 align="center"> Jogue em seu computador e divirta-se!</h2>
-  <a href="https://editor.p5js.org/Italo-Tech/full/yJCRaodkY">
-    <p align="center">Clique aqui para acessar ao jogo e repasse para os amigos rss</p>
-	</a>
-</p>
-
 
 ## Para visualizar o meu certificado:
 
@@ -47,5 +46,5 @@ $ Abra o index.html em seu computador
 </h4>
 
 <h4 align="center">
-  <h4 align="center">Espero que tenha gostado, e se sim, deixe aquela Star. Obrigada!</h4>
+  <h4 align="center">Espero que tenha gostado, e se sim, deixe aquela Star. Obrigado!</h4>
 </h4>
