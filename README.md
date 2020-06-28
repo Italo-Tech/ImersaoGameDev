@@ -46,5 +46,5 @@ $ Abra o index.html em seu computador
 </h4>
 
 <h4 align="center">
-  <h4 align="center">Espero que tenha gostado, e se sim, deixe aquela Star. Obrigado!</h4>
+  <h4 align="center">Gostou? Deixe aquele Star 😉. Obrigado!</h4>
 </h4>
