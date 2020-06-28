@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" src="assets/gamedev-logo-png.png"/>
+    <img alt="Logo" src="assets/gamedev-logo-png.png" width="300px"/>
     <br>
 </h1>
 
