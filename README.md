@@ -1,13 +1,17 @@
 <h1 align="center">
-    <img alt="Logo" src=".github/gamedev-logo-png.png"/>
-    <img alt="Logo" src=".github/certificateAlura.png"/>
+    <img alt="Logo" src="assets/gamedev-logo-png.png"/>
     <br>
 </h1>
 
 <h2 align="center">
   🚀🕹️ Imersão Game Dev Alura 🕹️🚀
 </h2>
+
 <p align="center">
+   <img alt="Certificate" src="assets/certificateAlura.png" width="100%/>
+<p align="center">
+  
+</p>
 
 ## 💻 Projeto
 
